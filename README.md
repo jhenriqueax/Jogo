@@ -1,2 +1,2 @@
 # Jogo
-Jogo criado para projeto final do CS50
+Jogo desenvolvido para projeto final do CS50
